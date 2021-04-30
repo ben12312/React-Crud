@@ -16,19 +16,9 @@
       "category": "Mobile"
     },
     {
-      "id": 4,
-      "title": "Create auth endpoints",
-      "category": "Backend"
-    },
-    {
-      "id": 5,
-      "title": "Create layout for login and register",
-      "category": "Mobile"
-    },
-    {
-      "id": 6,
-      "title": "Create layout for login and register",
-      "category": "Frontend"
+      "title": "main",
+      "category": "Mobile",
+      "id": 8
     }
   ]
 }
